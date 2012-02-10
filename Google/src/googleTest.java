@@ -33,6 +33,9 @@ public class googleTest extends SeleneseTestBase {
 		selenium.click("submitButtonImage");
 		selenium.click("submitButtonImage");
 		selenium.waitForPageToLoad("30000");
+		selenium.waitForPageToLoad("30000");
+		selenium.waitForPageToLoad("30000");
+		
 	}
 
 	@After
