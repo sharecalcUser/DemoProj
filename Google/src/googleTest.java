@@ -35,6 +35,7 @@ public class googleTest extends SeleneseTestBase {
 		selenium.waitForPageToLoad("30000");
 		selenium.waitForPageToLoad("30000");
 		selenium.waitForPageToLoad("30000");
+		//hi This is sukanta
 		
 	}
 
